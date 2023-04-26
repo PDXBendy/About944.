@@ -1,0 +1,111 @@
+body{
+    background-image: url(Final/Backie.jpg);
+}  
+
+.nav {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    }
+    
+    .nav a {
+    color: #fff;
+    text-decoration: none;
+    }
+   
+.image-container img {
+    border: 5px solid black;
+  }
+  @font-face {
+    font-family: MyFont;
+    src: url(Final/911porschav3bold.ttf);
+  }
+  h1 {
+    font-family: MyFont;
+  }
+
+
+.video-container {
+    text-align: center;
+    border: 5px solid black;
+    max-width: 75%;
+    margin: 0 auto;
+  }
+  
+  
+  .video-space {
+    margin-top: 50px;
+  }
+
+  body {
+    color: white;
+  }
+  
+  .navbar {
+    background-color: rgb(58, 0, 0);
+    height: 50px;
+  }
+  
+  
+  .navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: inline-block;
+  }
+  
+ 
+  .active {
+    background-color: rgb(58, 0, 0);
+    color: red;
+  }
+  
+
+  .image-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+  }
+  
+ 
+  .image-container img {
+    max-width: 30%;
+    border: 5px solid rgb(58, 0, 0);
+  }
+
+ 
+  .image-space {
+    margin-top: 50px;
+  }
+
+  
+  .text-box {
+    margin-top: 50px;
+    text-align: left;
+    font-size: 18px;
+  }
+
+ 
+  .video-container {
+    text-align: center;
+    width: 100%;
+    max-width: 563px;
+    margin: 0 auto;
+    border: 5px solid rgb(58, 0, 0);
+  }
+
+  
+  .video-space {
+    margin-top: 50px;
+  }
+
+ 
+  body {
+    color: white;
+  } 
+  header {
+    font-family: 'Roboto Condensed', sans-serif;
+  }
